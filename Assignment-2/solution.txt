@@ -1,0 +1,44 @@
+Assignment #2
+
+1) a)  Show the airlines with flights to Boston.
+
+[sentence [vp [verb Show]
+              [np [det the]
+                  [nominal [nominal [noun airlines]]
+                           [pp [prep with] 
+                               [np [nominal [nominal [noun flights]]
+                                            [pp [prep to] 
+                                                [np [proper-noun Boston]]]]]]]]]]
+
+		       
+
+	b) Show the airlines that fly to Boston.
+
+[sentence [vp [verb Show] 
+              [np [det the]
+                  [nominal [nominal [noun airlines]] 
+                           [rel-clause [rel-pro that] 
+                                       [vp [verb fly] 
+                                           [pp [prep to] 
+                                               [np [proper-noun Boston]]]]]]]]]
+	     
+	c) I need to know the flight number.
+
+[sentence [np [pronoun I]] 
+          [vp [verb need] 
+              [inf-marker to] 
+              [vp [verb know] 
+                  [np [det the] 
+                      [nominal [nominal [noun flight]] 
+                               [noun number]]]]]]
+
+
+	d) Do you prefer to go to Boston?
+
+[sentence [aux Do] 
+          [np [pronoun you]] 
+          [vp [verb prefer] 
+              [inf-marker to] 
+              [vp [verb go] 
+                  [pp [prep to] 
+                      [np [proper-noun Boston]]]]]]

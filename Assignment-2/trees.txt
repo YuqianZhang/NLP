@@ -1,0 +1,35 @@
+Show the airlines with flights to Boston
+[ S	[ VP	[ Verb	"Show"] 
+		[ NP	[ Det	"the"]
+		      	[ Nominal	[ Noun   "airlines"]]]
+	        [ PP   	[ Prep	"with"]
+		      	[ NP	[ Nominal	[ Nominal	[ Noun	"flights"]]
+				          	[ PP	[ Prep	"to"]
+					     		[ NP	[ Proper-noun	"Boston"]]]]]]]]
+  
+Show the airlines that fly to Boston
+[ S	[ VP	[ Verb	"show"]
+	       	[ NP	[ Det	"the"]
+		     	[ Nominal	[ Nominal	[ Noun	"airlines”]]
+		               		[ Re-clause	[ Rel-pro	"that"]
+					         	[ VP	[ Verb	"fly"]
+						      		[ PP	[ Prep	"to"]
+							   		[ NP	[ Proper-noun	"Boston"]]]]]]]]]
+
+I need to know the flight number
+[ S	[ NP	[ Pronoun	"I"]]
+        [ VP	[ Verb	"need"]
+	      	[ Inf-marker	"to"]
+	      	[ VP	[ Verb	"know"]
+		   	[ NP	[ Det	"the"]
+				[ Nominal	[ Nominal	[ Noun	"flight"]]
+				       		[ Noun	"number"]]]]]]
+
+Do you prefer to go to Boston?
+[ S	[ Aux	"Do"]
+	[ NP	[ Pronoun	"you"]]
+	[ VP	[ Verb	"prefer"]
+	    	[ Inf-marker	"to"]
+	    	[ VP	[Verb	"go"]
+ 		 	[ PP	[ Prep	"to"]
+		           	[ NP	[Proper-noun	"Boston"]]]]]]
