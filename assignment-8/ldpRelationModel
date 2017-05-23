@@ -1,0 +1,13 @@
+PERSON--prep:of:pobj--GPE = RESIDE
+PERSON--dobj-1:bear:prep:in:pobj--GPE = RESIDE
+PERSON--pobj-1:as:prep-1:boy:prep:from:pobj--GPE = RESIDE
+PERSON--nsubj-1:live:prep:in:pobj--GPE = RESIDE
+PERSON--prep:from:pobj--GPE = RESIDE
+PERSON--appos-1:finalist:prep:from:pobj--GPE = RESIDE
+PERSON--nsubj-1:be:ccomp-1:say:ccomp:live:prep:in:pobj--GPE = RESIDE
+PERSON--nsubj-1:be:advmod:man:prep:from:pobj--GPE = RESIDE
+PERSON--pobj-1:as:prep-1:boy:prep:in:pobj--GPE = RESIDE
+PERSON--nsubj-1:spend:dobj:rest:prep:in:pobj--GPE = RESIDE
+PERSON--nsubj-1:return:prep:to:pobj:hometown:prep:of:pobj--GPE = RESIDE
+PERSON--nsubj-1:reside:prep:in:pobj--GPE = RESIDE
+PERSON--cop-1:be:ccomp-1:say:ccomp:live:prep:in:pobj--GPE = RESIDE
